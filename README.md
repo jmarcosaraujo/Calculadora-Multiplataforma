@@ -14,4 +14,6 @@ Praticar lógica de programação, organização de projetos e versionamento com
 - JavaScript
 
 ## 📷 Demonstração
-Veja o vídeo na pasta `/preview` [Visualizar](videos/Projeto-Calculadora-multiplataforma-Web-Html-Js.mp4)
+Veja o vídeo na pasta `/preview` 
+<img width="1196" height="795" alt="image" src="https://github.com/user-attachments/assets/0edf6ba7-fbcb-4f4e-ad5e-666bcdb01a57" />
+[Visualizar](videos/Projeto-Calculadora-multiplataforma-Web-Html-Js.mp4)
